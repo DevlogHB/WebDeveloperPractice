@@ -8,8 +8,12 @@
 
 #### 2. nodejs_moduleAndnpm
 
-    - node 모듈 및 npm 연습
+    - nodejs 모듈 및 npm 연습
 
 #### 3. nodejs_express
 
-    - node Framework express 연습
+    - nodejs Framework express 연습
+
+#### 4. nodejs_templating
+
+    - nodejs  template engine (ejs) and bootstrap
