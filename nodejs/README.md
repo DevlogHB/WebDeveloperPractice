@@ -29,3 +29,8 @@
 #### 7. nodejs_middleware
 
     - nodejs middleware 연습
+
+
+#### 8. nodejs_error
+
+    - nodejs error 연습
