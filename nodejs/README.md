@@ -34,3 +34,12 @@
 #### 8. nodejs_error
 
     - nodejs error 연습
+
+#### 9. nodejs_mongoose_relationships
+
+    - nodejs mongoose 관계 연습
+
+#### 10. nodejs_routerAndCookies
+
+    - nodejs 라우터 및 쿠키 연습
+
