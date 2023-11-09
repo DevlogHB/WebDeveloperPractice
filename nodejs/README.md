@@ -43,3 +43,12 @@
 
     - nodejs 라우터 및 쿠키 연습
 
+#### 11. nodejs_sessions
+
+    - nodejs 세션 연습
+
+#### 12. nodejs_auth
+
+    - nodejs 인증 연습
+
+
